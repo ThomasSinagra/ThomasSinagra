@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThomasSinagra
-- 👀 I’m interested in mking ambitious project that will probably never run entirely
-- 🌱 I’m currently learning HTML CSS Python
+- 👀 I’m interested in making ambitious project that will probably never run entirely
+- 🌱 I’m currently learning HTML/CSS PHP and Python
 - 💞️ I’m looking to collaborate on a secret project 🤫
 - 📫 How to reach me :
     - odinest on Discord
