@@ -2,8 +2,7 @@
 - I speak french and english fluently and a little bit of spanish
 - 👀 I’m interested in making ambitious project that will probably never run entirely
 - 🌱 I’m currently learning HTML/CSS and PHP
-- 💻 I'm good in Python
-- 💞️ I’m looking to collaborate on a secret project 🤫
+- 💻 I'm code in Python
 - 📫 How to reach me :
     - Odinest on Discord
     - thomas@sinagra.fr
