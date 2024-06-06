@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **thomas@sinagra.fr**
 
-- 👀 I’m interested in making ambitious project that will probably never run entirely
+- 👀 I’m interested in making ambitious project and learn new language to make these projects
+
+- 📚 I will learn other languages : C, C++, Java, NodeJS
 
 <br>
 
